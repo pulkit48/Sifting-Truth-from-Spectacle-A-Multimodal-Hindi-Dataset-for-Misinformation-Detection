@@ -1,0 +1,1 @@
+# Sifting-Truth-from-Spectacle-A-Multimodal-Hindi-Dataset-for-Misinformation-Detection
